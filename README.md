@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Meu nome é Henrique Broseghini, estudante de engenharia da computação, estudando front-end.
 <!--
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrosHenrique)](https://twitter.com/BrosHenrique)
 -->
