@@ -2,6 +2,12 @@
 
 My name is Henrique Machado Broseghini, i am a computer engineering student and web developer.
 
+<div align="center">
+  <a href="https://github.com/HenriqueBros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueBros&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBros&layout=compact&langs_count=6&theme=ocean_dark"/>
+</div>
+  
 ## **Social Media:**  
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrosHenrique)](https://twitter.com/BrosHenrique)
