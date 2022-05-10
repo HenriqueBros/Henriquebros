@@ -15,7 +15,6 @@ My name is Henrique Machado Broseghini, i am a computer engineering student and 
 ## **My Blogs:**  
   
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/henriquebros)](https://dev.to/henriquebros)
-
 ---
 ## **Languages:**  
  <div style="display: inline_block"><br>
