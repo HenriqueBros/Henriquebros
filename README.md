@@ -1,6 +1,7 @@
 ### Hi there 
 
-My name is Henrique Machado Broseghini, i am a computer engineering student and web developer.
+Meu nome é Henrique Machado Broseghini, estudante de engenharia da computação, desenvolvedor web.
+Produzo conteúdo sobre automação com arduino, esp32 e C++ no [Dev.to](https://dev.to/henriquebros) e fiz um repositório chamado [Arduino4noobs](https://github.com/HenriqueBros/Arduino4noobs) onde ensino arduino na comunidade [He4rtDevs](https://twitter.com/He4rtDevs).
 
 <div align="left">
   <a href="https://github.com/HenriqueBros">
