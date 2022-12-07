@@ -1,6 +1,6 @@
 ### Hi there 
 
-Meu nome é Henrique Machado Broseghini, estudante de engenharia da computação, desenvolvedor web.
+Meu nome é Henrique Machado Broseghini, estudante de engenharia da computação, estudo para ser um DevOps, estudando Linux, Terraform, Docker, Kubernetes.
 Produzo conteúdo sobre automação com arduino, esp32 e C++ no [Dev.to](https://dev.to/henriquebros) e fiz um repositório chamado [Arduino4noobs](https://github.com/HenriqueBros/Arduino4noobs) onde ensino arduino na comunidade [He4rtDevs](https://twitter.com/He4rtDevs).
 
 <div align="left">
@@ -17,11 +17,10 @@ Produzo conteúdo sobre automação com arduino, esp32 e C++ no [Dev.to](https:/
   
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/henriquebros)](https://dev.to/henriquebros)
 ---
-## **Languages:**  
+## **Technologies:**  
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Ubuntu" height="50" width="50" margin="10p" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">_ 
+  <img align="center" alt="Docker" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">_ 
+  <img align="center" alt="Kubernetes" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">_ 
+   <img align="center" alt="Terraform" height="55" width="55" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg">
 </div>
