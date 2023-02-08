@@ -1,6 +1,6 @@
 ### Hi there 
 
-Meu nome é Henrique Machado Broseghini, estudante de engenharia da computação, estudo para ser um DevOps, estudando Linux, Terraform, Docker, Kubernetes.
+Meu nome é Henrique Machado Broseghini, Analista DevOps, estudo Linux, Docker, Kubernetes, Terraform e Ansible.
 Produzo conteúdo sobre automação com arduino, esp32 e C++ no [Dev.to](https://dev.to/henriquebros) e fiz um repositório chamado [Arduino4noobs](https://github.com/HenriqueBros/Arduino4noobs) onde ensino arduino na comunidade [He4rtDevs](https://twitter.com/He4rtDevs).
 
 <div align="left">
